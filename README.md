@@ -1,10 +1,10 @@
 ## Hello there 👋
 
-I'm **Andrés Gallardo**, a C.S. student at Universidad de Chile.
+I'm **Andrés Gallardo**, a Computer Science student at Universidad de Chile.
 
-I love open-source projects and learning new technologies.
+I’m passionate about open-source projects and constantly learning new technologies.
 
-My experience ranges from Linux systems administration to web development using Django and Svelte.
+My experience ranges from Linux systems administration to web development using Django, Svelte and Wordpress/Joomla, much of which I've gained as part of the [Diario VI Región](https://diarioviregion.cl) IT Team.
 
 Also, me and my friend [@Mondez](https://github.com/Mondez115) love making games, we publish them on [his itch.io](https://mondez.itch.io/).
 
@@ -16,6 +16,11 @@ Also, me and my friend [@Mondez](https://github.com/Mondez115) love making games
 - 📫 How to reach me: Links to my email and LinkedIn are down below.
 - ⚡ Fun fact: I'm *that* kind of Linux guy.
 
+### Let's get in touch!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/angallar/)
+- ✉️ [Email](mailto:angallar@dcc.uchile.cl)
+
 ### Some stats and nice badges
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsessionGuy&show_icons=true&include_all_commits=true&theme=transparent)
@@ -26,7 +31,3 @@ Also, me and my friend [@Mondez](https://github.com/Mondez115) love making games
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=AsessionGuy)
 
-### Let's get in touch!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/angallar/)
-- ✉️ [Email](mailto:angallar@dcc.uchile.cl)
